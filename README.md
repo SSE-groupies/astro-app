@@ -2,9 +2,9 @@
 ## Master repo linking to all microservices
 ### Flexible and scalable web app prototype to add stars to a visualisation of the night sky whilst sharing deep thoughts/questions and creating constellations with others
 
-[Backend](https://github.com/mollymachin/stars_backend)
-[Frontend](https://github.com/Arneaj/StarsFrontend)
-[Interface (application layer)](https://github.com/aoneillmark/StarsApplication)
+- [Backend](https://github.com/mollymachin/stars_backend)
+- [Frontend](https://github.com/Arneaj/StarsFrontend)
+- [Interface (application layer)](https://github.com/aoneillmark/StarsApplication)
 
 
 #### Project Ideas:
