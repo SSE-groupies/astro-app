@@ -5,6 +5,7 @@
 - [Backend](https://github.com/mollymachin/stars_backend)
 - [Frontend](https://github.com/Arneaj/StarsFrontend)
 - [Interface (application layer)](https://github.com/aoneillmark/StarsApplication)
+- [Hate speech filter](https://github.com/CharlotteR-G/HateSpeechFilter)
 
 
 #### Project Ideas:
