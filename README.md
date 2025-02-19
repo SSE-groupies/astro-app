@@ -6,6 +6,7 @@
 - [Frontend](https://github.com/Arneaj/StarsFrontend)
 - [Interface (application layer)](https://github.com/aoneillmark/StarsApplication)
 - [Hate speech filter](https://github.com/CharlotteR-G/HateSpeechFilter)
+- [User Authentication](https://github.com/aoneillmark/Authentication)
 
 
 #### Project Ideas:
