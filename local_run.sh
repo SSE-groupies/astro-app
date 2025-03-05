@@ -7,7 +7,7 @@ echo "http://localhost:3000"
 
 read -p "Press any key to quit (don't Ctrl + C!)... " -n1 -s
 
-sudo lsof | grep -E ":8000|:5000|:3000" | 
+sudo lsof | grep -E ":8000|:5000|:5001|:3000" | 
     awk '{print $2}' |
     while read line ; do
       kill -9 "$line"

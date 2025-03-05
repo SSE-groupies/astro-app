@@ -7,7 +7,7 @@ echo "http://localhost:3000"
 
 read -p "(Don't Ctrl + C!) Press any other key to quit ..." -n1 -s
 
-sudo lsof -i :8000 -i :5000 -i :3000 | 
+sudo lsof -i :8000 -i :5000 -i :3000 -i :5001 | 
     awk 'NR > 1 {print $2}' |
     sort -u |
     while read line ; do
